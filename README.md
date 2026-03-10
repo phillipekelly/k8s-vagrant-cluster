@@ -43,12 +43,14 @@ Optional but recommended:
 Clone the repo, start the cluster:
 
 ```bash
-git clone https://github.com/<your-username>/k8s-vagrant-cluster.git
+git clone https://github.com/phillipekelly/k8s-vagrant-cluster.git
 cd k8s-vagrant-cluster
 vagrant up
 vagrant ssh controlplane
 ```
-Follow the guide to setup your cluster with Kubeadm and instal a CNI, Calico support NP objects, while Flannel does not!:
+Your Cluster is provisioned!
+
+Recommend to follow Kubeadm to quickly bootstrap the cluster and install a CNI, Calico support NP objects, while Flannel does not!:
 
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
