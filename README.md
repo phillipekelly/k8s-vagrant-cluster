@@ -1,7 +1,7 @@
 # Kubernetes Vagrant Cluster
 
 A ready-to-run **multi-node Kubernetes cluster** using **Vagrant** and **VirtualBox**.  
-Designed for **Windows hosts** to allow anyone to spin up a Kubernetes cluster quickly, making it ideal for learning, lab exercises, or showcasing DevOps skills.
+Designed for **Windows hosts** to allow anyone to spin up a Kubernetes cluster quickly!
 
 ---
 
