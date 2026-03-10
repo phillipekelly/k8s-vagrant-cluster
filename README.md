@@ -40,7 +40,7 @@ Optional but recommended:
 
 ## Quick Start
 
-Clone the repo, start the cluster and choose a CNI - below are Calico (supports Network Policy objects) and Flannel (does not support) or any other CNI of your choice -- happy kubectling!:
+Clone the repo, start the cluster:
 
 ```bash
 git clone https://github.com/<your-username>/k8s-vagrant-cluster.git
